@@ -1,0 +1,57 @@
+THIỆP CƯỚI MINH TRƯỜNG & QUẾ TRÂN — BẢN MỜI BẠN BÈ Ở XA
+
+THÔNG TIN TRONG THIỆP
+- Nhà gái: Ông Lê Văn Trỗi, Bà Trần Thị Huyền.
+  Khóm Giồng Trôm, phường Duyên Hải, tỉnh Vĩnh Long.
+- Nhà trai: Ông Võ Văn Sơ, Bà Nguyễn Thị Lệ.
+  Khu phố Đông, phường Trung An, tỉnh Đồng Tháp.
+- Cô dâu: Lê Quế Trân — Út nữ.
+- Chú rể: Võ Minh Trường — Quý nam.
+- Tiệc chung vui: 15:00, thứ Bảy 28/11/2026.
+  Âm lịch: 20 tháng 10 năm Bính Ngọ.
+- Lễ vu quy: 06:00, Chủ nhật 29/11/2026.
+  Âm lịch: 21 tháng 10 năm Bính Ngọ.
+- Địa điểm: Tư gia nhà gái, Khóm Giồng Trôm, phường Duyên Hải, tỉnh Vĩnh Long.
+- Thông tin được chép theo ảnh thiệp giấy mới cung cấp.
+- Không có lịch trình du lịch, xe đưa đón hoặc các giờ tiệc của bản trước.
+
+TẠO LINK GITHUB PAGES RIÊNG
+1. Giải nén ZIP.
+2. Tạo repository mới trên GitHub, ví dụ thiep-moi-ban-be, chọn Public.
+3. Chọn Upload files. Tải toàn bộ nội dung đã giải nén lên:
+   index.html, style.css, friends.css, script.js, intro.css, intro.js,
+   thư mục assets và .nojekyll. Sau đó Commit changes.
+   index.html nằm ngay ngoài cùng repository. Không tải nguyên file ZIP.
+4. Settings > Pages > Source: Deploy from a branch.
+   Branch: main. Folder: /(root). Save.
+5. Chờ triển khai xong, mở link trong Pages và gửi khách.
+
+GIAO DIỆN & HIỆU ỨNG
+- Giữ phong cách Premium hồng kem, khung ảnh vòm và ảnh hôn tay đã chốt.
+- Phong bì không dùng cụm hoa; dùng monogram T&T, dấu sáp và viền champagne.
+- Khi chạm: phong bì mở, thiệp trượt lên; giữ trọn thiệp 1 giây rồi chuyển vào web.
+- Nhạc đã kèm assets/wedding.mp3, phát lặp liên tục qua phần chuyển trang.
+- Trình duyệt có thể yêu cầu lần chạm đầu tiên để bật âm thanh.
+- Cánh hoa rơi nhẹ trên website; tự giảm khi thiết bị bật giảm chuyển động.
+- Có nút bật/tắt nhạc, bỏ qua phần mở và xem lại thiệp.
+- Ảnh và font đã lưu trong gói; không dùng ảnh vest đen.
+- Copyright by DO CHI CAN ở cuối trang.
+
+THIỆP MỜI THÔNG THƯỜNG
+Không có phần xác nhận tham dự, Google Form, mã QR hoặc hạn đăng ký.
+
+BẢN ĐỒ
+Nút bản đồ tìm kiếm theo địa chỉ in trên thiệp, không phải ghim chính xác tư gia.
+Khi có link ghim chính xác, thay href của nút map-button trong index.html.
+
+CHỈNH SỬA
+- Tên, thời gian, địa chỉ, nội dung: index.html.
+- Màu và khung gốc: style.css.
+- Bố cục thông tin gia đình và ngày tiệc: friends.css.
+- Màn mở phong bì: intro.css, intro.js (HOLD_MS = 1000).
+- Nhạc và hiệu ứng: script.js.
+- Ảnh responsive: assets/hero-cover-*, hero-mobile-*, letter-architecture-*, couple-moment-*.
+- Giấy phép font: assets/fonts/LICENSE-*.txt.
+
+Mở thử bằng cách nhấp đúp index.html sau khi giải nén.
+Website tĩnh, không cần npm hoặc dịch vụ trả phí.
