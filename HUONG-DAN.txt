@@ -7,13 +7,16 @@ THÔNG TIN TRONG THIỆP
   Khu phố Đông, phường Trung An, tỉnh Đồng Tháp.
 - Cô dâu: Lê Quế Trân — Út nữ.
 - Chú rể: Võ Minh Trường — Quý nam.
+- Tiệc nhóm họ: 18:30, thứ Sáu 27/11/2026.
+  Âm lịch: 19 tháng 10 năm Bính Ngọ.
 - Tiệc chung vui: 15:00, thứ Bảy 28/11/2026.
   Âm lịch: 20 tháng 10 năm Bính Ngọ.
-- Lễ vu quy: 06:00, Chủ nhật 29/11/2026.
-  Âm lịch: 21 tháng 10 năm Bính Ngọ.
 - Địa điểm: Tư gia nhà gái, Khóm Giồng Trôm, phường Duyên Hải, tỉnh Vĩnh Long.
-- Thông tin được chép theo ảnh thiệp giấy mới cung cấp.
+- Ngày giờ tiệc nhóm họ đã cập nhật theo yêu cầu mới.
 - Không có lịch trình du lịch, xe đưa đón hoặc các giờ tiệc của bản trước.
+
+CẬP NHẬT LINK THIỆP BẠN BÈ HIỆN CÓ
+Giải nén rồi tải đè index.html vào repository đang chạy thiệp bạn bè.
 
 TẠO LINK GITHUB PAGES RIÊNG
 1. Giải nén ZIP.
