@@ -16,7 +16,7 @@ THÔNG TIN TRONG THIỆP
 - Không có lịch trình du lịch, xe đưa đón hoặc các giờ tiệc của bản trước.
 
 CẬP NHẬT LINK THIỆP BẠN BÈ HIỆN CÓ
-Giải nén rồi tải đè index.html vào repository đang chạy thiệp bạn bè.
+Giải nén rồi tải đè index.html và friends.css vào repository đang chạy thiệp bạn bè.
 
 TẠO LINK GITHUB PAGES RIÊNG
 1. Giải nén ZIP.
@@ -44,8 +44,8 @@ THIỆP MỜI THÔNG THƯỜNG
 Không có phần xác nhận tham dự, Google Form, mã QR hoặc hạn đăng ký.
 
 BẢN ĐỒ
-Nút bản đồ tìm kiếm theo địa chỉ in trên thiệp, không phải ghim chính xác tư gia.
-Khi có link ghim chính xác, thay href của nút map-button trong index.html.
+Nút bản đồ của cả hai buổi tiệc mở địa điểm theo link Google Maps đã cung cấp.
+https://maps.app.goo.gl/XkX3qGQBuNxzZyN26?g_st=iz
 
 CHỈNH SỬA
 - Tên, thời gian, địa chỉ, nội dung: index.html.
